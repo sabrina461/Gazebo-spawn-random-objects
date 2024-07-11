@@ -1,0 +1,9 @@
+running egg_info
+creating ../../build/spawn_random_shape/my_gazebo_world.egg-info
+writing ../../build/spawn_random_shape/my_gazebo_world.egg-info/PKG-INFO
+writing dependency_links to ../../build/spawn_random_shape/my_gazebo_world.egg-info/dependency_links.txt
+writing entry points to ../../build/spawn_random_shape/my_gazebo_world.egg-info/entry_points.txt
+writing requirements to ../../build/spawn_random_shape/my_gazebo_world.egg-info/requires.txt
+writing top-level names to ../../build/spawn_random_shape/my_gazebo_world.egg-info/top_level.txt
+writing manifest file '../../build/spawn_random_shape/my_gazebo_world.egg-info/SOURCES.txt'
+error: package directory 'my_gazebo_world' does not exist

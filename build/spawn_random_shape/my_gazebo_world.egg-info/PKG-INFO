@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: my-gazebo-world
+Version: 0.0.0
+Summary: Gazebo world with ROS 2 integration
+Home-page: UNKNOWN
+Maintainer: your_name
+Maintainer-email: your_email@example.com
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: spawn-random-shape
+Version: 0.0.0
+Summary: Spawns a random shape in a Gazebo world
+Home-page: UNKNOWN
+Maintainer: your_name
+Maintainer-email: your_email@example.com
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN

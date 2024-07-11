@@ -1,0 +1,21 @@
+[0.491s] Invoking command in '/home/romi-lab-2/ros2_ws/src/spawn_random_shape': PYTHONPATH=/home/romi-lab-2/ros2_ws/build/spawn_random_shape/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/spawn_random_shape build --build-base /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build install --record /home/romi-lab-2/ros2_ws/build/spawn_random_shape/install.log --install-scripts $base/lib/spawn_random_shape --single-version-externally-managed install_data
+[0.657s] running egg_info
+[0.658s] writing ../../build/spawn_random_shape/spawn_random_shape.egg-info/PKG-INFO
+[0.658s] writing dependency_links to ../../build/spawn_random_shape/spawn_random_shape.egg-info/dependency_links.txt
+[0.658s] writing entry points to ../../build/spawn_random_shape/spawn_random_shape.egg-info/entry_points.txt
+[0.658s] writing requirements to ../../build/spawn_random_shape/spawn_random_shape.egg-info/requires.txt
+[0.659s] writing top-level names to ../../build/spawn_random_shape/spawn_random_shape.egg-info/top_level.txt
+[0.684s] reading manifest file '../../build/spawn_random_shape/spawn_random_shape.egg-info/SOURCES.txt'
+[0.685s] writing manifest file '../../build/spawn_random_shape/spawn_random_shape.egg-info/SOURCES.txt'
+[0.685s] running build
+[0.685s] running build_py
+[0.686s] running install
+[0.686s] running install_lib
+[0.687s] running install_data
+[0.687s] running install_egg_info
+[0.688s] removing '/home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages/spawn_random_shape-0.0.0-py3.8.egg-info' (and everything under it)
+[0.689s] Copying ../../build/spawn_random_shape/spawn_random_shape.egg-info to /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages/spawn_random_shape-0.0.0-py3.8.egg-info
+[0.689s] running install_scripts
+[0.702s] Installing spawn_random_shape script to /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/spawn_random_shape
+[0.702s] writing list of installed files to '/home/romi-lab-2/ros2_ws/build/spawn_random_shape/install.log'
+[0.716s] Invoked command in '/home/romi-lab-2/ros2_ws/src/spawn_random_shape' returned '0': PYTHONPATH=/home/romi-lab-2/ros2_ws/build/spawn_random_shape/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/spawn_random_shape build --build-base /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build install --record /home/romi-lab-2/ros2_ws/build/spawn_random_shape/install.log --install-scripts $base/lib/spawn_random_shape --single-version-externally-managed install_data

@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/spawn_random_shape/spawn_random_shape.egg-info
+writing ../../build/spawn_random_shape/spawn_random_shape.egg-info/PKG-INFO
+writing dependency_links to ../../build/spawn_random_shape/spawn_random_shape.egg-info/dependency_links.txt
+writing entry points to ../../build/spawn_random_shape/spawn_random_shape.egg-info/entry_points.txt
+writing requirements to ../../build/spawn_random_shape/spawn_random_shape.egg-info/requires.txt
+writing top-level names to ../../build/spawn_random_shape/spawn_random_shape.egg-info/top_level.txt
+writing manifest file '../../build/spawn_random_shape/spawn_random_shape.egg-info/SOURCES.txt'
+reading manifest file '../../build/spawn_random_shape/spawn_random_shape.egg-info/SOURCES.txt'
+writing manifest file '../../build/spawn_random_shape/spawn_random_shape.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build
+creating /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build/lib
+creating /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build/lib/spawn_random_shape
+copying spawn_random_shape/spawn_random_shape.py -> /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build/lib/spawn_random_shape
+copying spawn_random_shape/__init__.py -> /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build/lib/spawn_random_shape
+running install
+running install_lib
+creating /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages/spawn_random_shape
+copying /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build/lib/spawn_random_shape/spawn_random_shape.py -> /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages/spawn_random_shape
+copying /home/romi-lab-2/ros2_ws/build/spawn_random_shape/build/lib/spawn_random_shape/__init__.py -> /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages/spawn_random_shape
+byte-compiling /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages/spawn_random_shape/spawn_random_shape.py to spawn_random_shape.cpython-38.pyc
+byte-compiling /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages/spawn_random_shape/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/romi-lab-2/ros2_ws/install/spawn_random_shape/share/ament_index
+creating /home/romi-lab-2/ros2_ws/install/spawn_random_shape/share/ament_index/resource_index
+creating /home/romi-lab-2/ros2_ws/install/spawn_random_shape/share/ament_index/resource_index/packages
+copying resource/spawn_random_shape -> /home/romi-lab-2/ros2_ws/install/spawn_random_shape/share/ament_index/resource_index/packages
+copying package.xml -> /home/romi-lab-2/ros2_ws/install/spawn_random_shape/share/spawn_random_shape
+running install_egg_info
+Copying ../../build/spawn_random_shape/spawn_random_shape.egg-info to /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/python3.8/site-packages/spawn_random_shape-0.0.0-py3.8.egg-info
+running install_scripts
+Installing spawn_random_shape script to /home/romi-lab-2/ros2_ws/install/spawn_random_shape/lib/spawn_random_shape
+writing list of installed files to '/home/romi-lab-2/ros2_ws/build/spawn_random_shape/install.log'

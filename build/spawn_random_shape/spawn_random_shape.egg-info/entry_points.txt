@@ -1,0 +1,3 @@
+[console_scripts]
+spawn_random_shape = spawn_random_shape.spawn_random_shape:main
+

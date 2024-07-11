@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="default">
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    <model name="walls">
+      <static>true</static>
+      <link name="link">
+        <collision name="collision">
+          <geometry>
+            <box>
+              <size>10 0.1 2.5</size>
+            </box>
+          </geometry>
+          <pose>0 5 1.25 0 0 0</pose>
+        </collision>
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>10 0.1 2.5</size>
+            </box>
+          </geometry>
+          <pose>0 5 1.25 0 0 0</pose>
+        </visual>
+      </link>
+      <link name="link2">
+        <collision name="collision">
+          <geometry>
+            <box>
+              <size>10 0.1 2.5</size>
+            </box>
+          </geometry>
+          <pose>0 -5 1.25 0 0 0</pose>
+        </collision>
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>10 0.1 2.5</size>
+            </box>
+          </geometry>
+          <pose>0 -5 1.25 0 0 0</pose>
+        </visual>
+      </link>
+      <link name="link3">
+        <collision name="collision">
+          <geometry>
+            <box>
+              <size>0.1 10 2.5</size>
+            </box>
+          </geometry>
+          <pose>5 0 1.25 0 0 0</pose>
+        </collision>
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.1 10 2.5</size>
+            </box>
+          </geometry>
+          <pose>5 0 1.25 0 0 0</pose>
+        </visual>
+      </link>
+      <link name="link4">
+        <collision name="collision">
+          <geometry>
+            <box>
+              <size>0.1 10 2.5</size>
+            </box>
+          </geometry>
+          <pose>-5 0 1.25 0 0 0</pose>
+        </collision>
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.1 10 2.5</size>
+            </box>
+          </geometry>
+          <pose>-5 0 1.25 0 0 0</pose>
+        </visual>
+      </link>
+    </model>
+  </world>
+</sdf>
